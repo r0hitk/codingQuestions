@@ -1,4 +1,6 @@
-
+/*
+ * Given a string, find the longest palindrome in it.
+ */
 
 public class LongestPalindrome {
 
