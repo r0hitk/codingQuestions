@@ -5,7 +5,7 @@
 public class LongestPalindrome {
 
 	
-	//Longest palindrome using bruteforce.
+	//Longest palindrome using bruteforce. An alternative way is to use a dynamic programming approach.
 	public static void main(String[] args) {
 
 		String str = "darkknightthginkdark"; 
